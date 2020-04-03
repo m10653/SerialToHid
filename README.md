@@ -1,4 +1,4 @@
-# H1 Serial to HID
+# Serial to HID
 A simple program to interface an arduino to a Vjoy hid device for Condor 2.
 
 
